@@ -12,3 +12,9 @@ body{
     color: rgb(242, 242, 49);
     text-shadow: rgb(0, 0, 0) 8px 8px 3px;
 }
+
+img.timer{
+    display: block;
+    margin: auto;
+    width: 60%;
+}

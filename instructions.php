@@ -9,7 +9,11 @@
 
         <div class="row">
             <div class="col">
-                <p>To request an opportunity to become the Uber DOTA Timer Fan, please contact me at: <a href="mailto:j_johnson21@mail.fhsu.edu">j_johnson21@mail.fhsu.edu</a></p>
+                <p>Instructions:</p>
+                <ul>
+                    <li>Go to the timer page</li>
+                    <li>Press Start</li>
+                </ul>
             </div>
         </div>
     </div>

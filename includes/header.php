@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
         <link rel="stylesheet" href="css/style.css">
-        <title></title>
+        <title>DOTA Timer - by Jerrad Johnson</title>
     </head>
     <body>
 
@@ -21,7 +21,10 @@
                     <a class="nav-link" href="timer.php">Timer</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="blog">Blog</a>
+                    <a class="nav-link" href="instructions.php">Instructions</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="news.php">News</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="contact.php">Contact</a>
