@@ -3,13 +3,21 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-12">
-                <p class="header">DOTA Timer</p>
+                <p class="header">Contact</p>
             </div>
         </div>
 
         <div class="row">
             <div class="col">
-                <p>To request an opportunity to become the Uber DOTA Timer Fan, please contact me at: <a href="mailto:j_johnson21@mail.fhsu.edu">j_johnson21@mail.fhsu.edu</a></p>
+                <p>To report bugs, make feature requests, or express your appreciation, please contact or connect with me at:</p>
+                <ul class="contact">
+                    <li><a href="mailto:j_johnson21@mail.fhsu.edu" alt="E-mail">E-mail</a></li>
+                    <li><a href="https://www.linkedin.com/in/jerrad-johnson-7b84a1190/" alt="LinkedIn">LinkedIn</a></li>
+                    <li><a href="https://www.facebook.com/profile.php?id=100008794832926" alt="Facebook">Facebook</a></li>
+                </ul>
+
+                <p>If you enjoyed my timer, please consider donating your Baby Roshans or other in-game items. Link to my <a href="https://steamcommunity.com/profiles/76561198010854512/" alt="Steam Profile">Steam Profile</a>. </p>
+
             </div>
         </div>
     </div>
