@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
 
+/* Global Settings */
 body{
     background-color: #343a40;
     color: #ccc;
@@ -26,6 +27,12 @@ a:hover{
     text-decoration: none;
 }
 
+/* Home Page */
+div.homepage p:first-letter{
+    font-size:30px;
+    font-weight: bold;
+}
+
 /* News Page */
 div.newsHeadline{
     text-shadow: 3px 3px 3px #000;
@@ -39,7 +46,6 @@ div.newsContent{
 }
 
 /* Contact Page */
-
 ul.contact li a:active, ul.contact li a:visited, ul.contact li a:link{
     color: #fff;
     text-decoration:none;
@@ -57,3 +63,4 @@ img.timer{
     margin: auto;
     width: 60%;
 }
+
