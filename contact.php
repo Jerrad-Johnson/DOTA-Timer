@@ -11,12 +11,12 @@
             <div class="col">
                 <p>To report bugs, make feature requests, or express your appreciation, please contact or connect with me at:</p>
                 <ul class="contact">
-                    <li><a href="mailto:j_johnson21@mail.fhsu.edu" alt="E-mail">E-mail</a></li>
-                    <li><a href="https://www.linkedin.com/in/jerrad-johnson-7b84a1190/" alt="LinkedIn">LinkedIn</a></li>
-                    <li><a href="https://www.facebook.com/profile.php?id=100008794832926" alt="Facebook">Facebook</a></li>
+                    <li><a href="mailto:j_johnson21@mail.fhsu.edu">E-mail</a></li>
+                    <li><a href="https://www.linkedin.com/in/jerrad-johnson-7b84a1190/">LinkedIn</a></li>
+                    <li><a href="https://www.facebook.com/profile.php?id=100008794832926">Facebook</a></li>
                 </ul>
 
-                <p>If you enjoyed my timer, please consider donating your Baby Roshans or other in-game items. Link to my <a href="https://steamcommunity.com/profiles/76561198010854512/" alt="Steam Profile">Steam Profile</a>. </p>
+                <p>If you enjoyed my timer, please consider donating your Baby Roshans or other in-game items. Link to my <a href="https://steamcommunity.com/profiles/76561198010854512/">Steam Profile</a>. </p>
 
             </div>
         </div>
