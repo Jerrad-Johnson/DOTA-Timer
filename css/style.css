@@ -64,3 +64,15 @@ img.timer{
     width: 60%;
 }
 
+/* Instruction Page */
+p.steps{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 150%;
+    margin-top: -5px;
+}
+
+hr.steps{
+    margin-top: 40px;
+    border: 1px solid #fff;
+}
