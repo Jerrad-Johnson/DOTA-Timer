@@ -16,6 +16,9 @@
                 <p>If you browse the rest of this website, you'll see that I also offer miniature news updates which help to keep you informed about what's going on in the DOTA world. And if you love the timer and you're feeling generous, or if you have any comments or requests to send my way, please see the contact page. </p>
             </div>
         </div>
-    </div>
+
+
+
+
 
 <?php include 'includes/footer.php' ?>

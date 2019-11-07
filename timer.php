@@ -12,6 +12,5 @@
                 <img src="images/Timer-Placeholder.jpg" alt="Placeholder image" class="timer"/>
             </div>
         </div>
-    </div>
 
 <?php include 'includes/footer.php' ?>

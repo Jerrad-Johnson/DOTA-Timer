@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
+
+/* Global Settings */
+body{
+    background-color: #fff;
+    color: #000;
+}
+
+.header{
+    font-family: "Source Code Pro", monospace;
+    text-align: center;
+    font-size: 40px;
+    color: #333;
+    text-shadow: rgb(180, 180, 180) 2px 2px 4px;
+    margin-top: 15px;
+}
+
+p.header{
+    margin-bottom:30px;
+}
+
+a:active, a:visited, a:link{
+    color:#fff;
+}
+
+a:hover{
+    color: #f2f231;
+    text-decoration: none;
+}
+
+/* Home Page */
+div.homepage p:first-letter{
+    font-size:30px;
+    font-weight: bold;
+}
+
+/* News Page */
+div.newsHeadline{
+    font-size: 26px;
+    font-style: italic;
+    color: #666;
+}
+
+div.newsContent{
+    margin-bottom:30px;
+}
+
+/* Contact Page */
+ul.contact li a:active, ul.contact li a:visited, ul.contact li a:link{
+    color: #000;
+    text-decoration:none;
+}
+
+ul.contact li a:hover{
+    color: #000;
+    text-shadow: none;
+    text-decoration: underline;
+}
+
+/* Timer Page */
+img.timer{
+    display: block;
+    margin: auto;
+    width: 60%;
+}
+
+/* Instruction Page */
+p.steps{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 150%;
+    margin-top: -5px;
+}
+
+hr.steps{
+    margin-top: 40px;
+    border: 1px solid #fff;
+}
+
+div.colorchanger{
+    margin-top: 28px;
+}

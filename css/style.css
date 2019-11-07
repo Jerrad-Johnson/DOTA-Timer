@@ -12,6 +12,8 @@ body{
     font-size: 40px;
     color: #f2f231;
     text-shadow: rgb(0, 0, 0) 8px 8px 3px;
+    margin-top: 15px;
+
 }
 
 p.header{
@@ -75,4 +77,8 @@ p.steps{
 hr.steps{
     margin-top: 40px;
     border: 1px solid #fff;
+}
+
+div.colorchanger{
+    margin-top: 28px;
 }

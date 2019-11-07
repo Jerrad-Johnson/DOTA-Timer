@@ -23,6 +23,5 @@
                 fclose($f1);
                 }
             ?>
-    </div>
 
 <?php include 'includes/footer.php' ?>
